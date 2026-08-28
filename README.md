@@ -7,6 +7,7 @@ Currently working on [Aura](https://github.com/epassaro-dev/aura), an app that h
 Alongside mobile development, I'm using Aura to build my AI-assisted development skills with Claude Code, automating the repetitive parts while staying directly involved in architecture, design, and anything visual, where I've found AI still needs more guidance.
 
 **Currently working with:** Swift · SwiftUI · SwiftData · Claude Code · Kotlin · Jetpack Compose
+
 **Background in:** C# · Unity · Vuforia · Python · Java · GitHub Actions
 
 More at [ettore-passaro.github.io](ettore-passaro.github.io)
