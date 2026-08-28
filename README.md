@@ -10,7 +10,7 @@ Alongside mobile development, I'm using Aura to build my AI-assisted development
 
 **Background in:** C# · Unity · Vuforia · Python · Java · GitHub Actions
 
-More at [ettore-passaro.github.io](ettore-passaro.github.io)
+More at [ettore-passaro.github.io](https://ettore-passaro.github.io)
 
 
 <!--
